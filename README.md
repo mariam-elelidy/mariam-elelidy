@@ -107,18 +107,21 @@ If you have something valuable you want bring to life, just say "hii Mariam Letâ
 
 <div align="center">
 
+<div align="center">
+
 <a href="https://www.linkedin.com/in/mariam-elelidy-25me" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" style="border-radius:50%;" alt="linkedin" />
 </a>
+
 <a href="mailto:mariam.elelidy25@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" style="border-radius:50%;" alt="gmail" />
 </a>
+
 <a href="https://www.instagram.com/mariam.elelidy?igsh=MXA4bHJ4ZXFiMmY2ag==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40" style="border-radius:50%; background-color:white; padding:6px;" alt="instagram" />
 </a>
 
 </div>
-
 <div align="center">
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1026,100:1E3A8A" width="100%" />
