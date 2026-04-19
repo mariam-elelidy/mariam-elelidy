@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,100:1E3A8A&text=Heyyyyy%20👋%20I’m%20Mariam&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Researcher%20%7C%20Data%20Science%20%7C%20Scientific%20Computing%20%7C%20Embedded%20Systems&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,100:1E3A8A&text=Heyyyyy%20%20I’m%20Mariam&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Researcher%20%7C%20Data%20Science%20%7C%20Scientific%20Computing%20%7C%20Embedded%20Systems&descAlignY=60&animation=fadeIn" width="100%" />
 
 <h3>Turning curiosity into experiments, data into insight, and systems into real-world solutions.</h3>
 
@@ -18,18 +18,18 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
 Heyyyyy 👋  
-I’m **Mariam** — a curious researcher and data-driven builder who enjoys blending **scientific thinking**, **machine learning**, **analytical modeling**, and **engineering systems** to solve meaningful problems.
+I’m **Mariiam** — a curious researcher and data-driven builder who enjoys blending **scientific thinking**, **machine learning**, **analytical modeling**, and **engineering systems** to solve meaningful problems.
 
 I like working where **research**, **computation**, and **real-world experimentation** meet — from designing protocols and analyzing data to building models, testing hardware, and monitoring systems.
 
 ---
 
-## 🧠 Core Skill Areas
+## Core Skill Areas
 
-### 🔬 Research Skills
+### Research Skills
 <p>
   <img src="https://img.shields.io/badge/Problem%20Decomposition-0F172A?style=flat-square" />
   <img src="https://img.shields.io/badge/Research%20Design-1D4ED8?style=flat-square" />
@@ -39,7 +39,7 @@ I like working where **research**, **computation**, and **real-world experimenta
   <img src="https://img.shields.io/badge/Protocol%20Development-DC2626?style=flat-square" />
 </p>
 
-### 📊 Statistical Analysis
+### Statistical Analysis
 <p>
   <img src="https://img.shields.io/badge/ANOVA-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Hypothesis%20Testing-0891B2?style=flat-square" />
@@ -49,14 +49,14 @@ I like working where **research**, **computation**, and **real-world experimenta
   <img src="https://img.shields.io/badge/Error%20Analysis-F59E0B?style=flat-square" />
 </p>
 
-### ➗ Mathematical & Analytical Foundations
+### Mathematical & Analytical Foundations
 <p>
   <img src="https://img.shields.io/badge/Linear%20Algebra-1E40AF?style=flat-square" />
   <img src="https://img.shields.io/badge/Calculus-0F766E?style=flat-square" />
   <img src="https://img.shields.io/badge/Probability-7C2D12?style=flat-square" />
 </p>
 
-### 💻 Programming & Scientific Computing
+### Programming & Scientific Computing
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,sklearn,matplotlib" height="52" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="52" alt="pandas" />
@@ -64,7 +64,7 @@ I like working where **research**, **computation**, and **real-world experimenta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="52" alt="matlab" />
 </div>
 
-### 🤖 Machine Learning & Data Science
+### Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" />
   <img src="https://img.shields.io/badge/Feature%20Engineering-2563EB?style=flat-square" />
@@ -74,7 +74,7 @@ I like working where **research**, **computation**, and **real-world experimenta
   <img src="https://img.shields.io/badge/Multimodal%20Data%20Fusion-DC2626?style=flat-square" />
 </p>
 
-### ⚙️ Engineering & Systems
+### Engineering & Systems
 <p>
   <img src="https://img.shields.io/badge/Embedded%20Systems-1E293B?style=flat-square" />
   <img src="https://img.shields.io/badge/Hardware%20Testing-0EA5E9?style=flat-square" />
@@ -85,7 +85,7 @@ I like working where **research**, **computation**, and **real-world experimenta
 
 ---
 
-## 🧰 Tools I Work With
+## Tools I Work With
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,vscode,arduino,firebase" height="55" alt="tools row 1" />
@@ -101,7 +101,7 @@ I like working where **research**, **computation**, and **real-world experimenta
 
 ---
 
-## 🌟 What I Enjoy Building
+## What I Enjoy Building
 - Research-driven workflows with strong experimental logic
 - ML systems that are measurable, interpretable, and reliable
 - Scientific computing pipelines for analysis and modeling
@@ -110,14 +110,14 @@ I like working where **research**, **computation**, and **real-world experimenta
 
 ---
 
-## 🎨 Fun Facts
+## Fun Facts
 - I love **skating**.
-- I enjoy **art** and visual creativity.
+- I enjoy **art** .
 - I’m always excited by **exploration**, discovery, and learning something new.
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 <div align="center">
 
