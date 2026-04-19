@@ -3,18 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,100:1E3A8A&text=Heyo,%20%20I’m%20Mariam&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Scientific%20Researcher%20%7C%20AI/ML%20Research%20Engineer&descAlignY=60&animation=fadeIn" width="100%" />
 <h3>Turning curiosity into experiments, data into insight, and systems into real-world solutions.</h3>
 
-<a href="https://www.linkedin.com/in/mariam-elelidy-25me" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
-</a>
-<a href="mailto:mariam.elelidy25@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
-</a>
-<a href="https://www.instagram.com/mariam.elelidy?igsh=MXA4bHJ4ZXFiMmY2ag==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
-</a>
-
-</div>
-
 ---
 
 ## About Me
@@ -102,20 +90,18 @@ I like working where **research**, **computation**, and **real-world experimenta
 ---
 
 ## Let’s Connect
-If you have something valuable you want bring to life, just say "hii Mariam Let’s create something cool" !🚀
+If you have something valuable you want bring to life, just say **"hii Mariam Let’s create something cool"** !🚀
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mariam-elelidy-25me" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" style="filter: invert(1);" alt="linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
 </a>
-
 <a href="mailto:mariam.elelidy25@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" style="filter: invert(1);" alt="gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
 </a>
-
 <a href="https://www.instagram.com/mariam.elelidy?igsh=MXA4bHJ4ZXFiMmY2ag==" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40" style="filter: invert(1);" alt="instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
 </a>
 
 </div>
