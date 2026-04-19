@@ -103,6 +103,8 @@ I like working where **research**, **computation**, and **real-world experimenta
 ---
 
 ## Let’s Connect
+If you have something valuable you want bring to life, just say "hii Mariam Let’s create something cool" !🚀
+
 
 <div align="center">
 
