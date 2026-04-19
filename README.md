@@ -23,30 +23,40 @@ I like working where **research**, **computation**, and **real-world experimenta
   <img src="https://img.shields.io/badge/Problem%20Decomposition-0F172A?style=flat-square" />
   <img src="https://img.shields.io/badge/Research%20Design-1D4ED8?style=flat-square" />
   <img src="https://img.shields.io/badge/Experimental%20Design-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Critical%20Analysis-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Critical%20Literature%20Analysis-0F766E?style=flat-square" />
   <img src="https://img.shields.io/badge/Scientific%20Writing-9333EA?style=flat-square" />
   <img src="https://img.shields.io/badge/Protocol%20Development-DC2626?style=flat-square" />
 </p>
 
+---
+
 ### Statistical Analysis
 <p>
+  <img src="https://img.shields.io/badge/Descriptive%20Statistics-1D4ED8?style=flat-square" />
   <img src="https://img.shields.io/badge/ANOVA-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Hypothesis%20Testing-0891B2?style=flat-square" />
   <img src="https://img.shields.io/badge/Correlation%20%26%20Distribution%20Analysis-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Calibration-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Decision%20Threshold%20Analysis-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Calibration-16A34A?style=flat-square" />
   <img src="https://img.shields.io/badge/Robustness%20%26%20Sensitivity%20Analysis-E11D48?style=flat-square" />
   <img src="https://img.shields.io/badge/Error%20Analysis-F59E0B?style=flat-square" />
 </p>
 
+---
+
 ### Machine Learning & Data Science
 <p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Model%20Design%20%26%20Architecture-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Design%20%26%20Architecture-9333EA?style=flat-square" />
   <img src="https://img.shields.io/badge/Model%20Evaluation-059669?style=flat-square" />
   <img src="https://img.shields.io/badge/Representation%20Learning-DB2777?style=flat-square" />
   <img src="https://img.shields.io/badge/Multimodal%20Data%20Fusion-DC2626?style=flat-square" />
 </p>
+
+---
 
 ### Engineering & Systems
 <p>
