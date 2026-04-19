@@ -49,13 +49,6 @@ I like working where **research**, **computation**, and **real-world experimenta
   <img src="https://img.shields.io/badge/Error%20Analysis-F59E0B?style=flat-square" />
 </p>
 
-### Mathematical & Analytical Foundations
-<p>
-  <img src="https://img.shields.io/badge/Linear%20Algebra-1E40AF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Calculus-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Probability-7C2D12?style=flat-square" />
-</p>
-
 ### Programming & Scientific Computing
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,sklearn,matplotlib" height="52" />
