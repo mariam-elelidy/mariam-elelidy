@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,100:1E3A8A&text=Heyo,%20%20I’m%20Mariam&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Scientific%20Researcher%20%7C%20AI/ML%20Research%20Engineer&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1026,100:1E3A8A&text=Heyo,%20%20I’m%20Mariam&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Scientific%20Researcher%20%7C%20AI/ML%20Research%20Engineer&descAlignY=60&animation=fadeIn" width="100%" />
 <h3>Turning curiosity into experiments, data into insight, and systems into real-world solutions.</h3>
 
 ---
