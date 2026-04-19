@@ -95,8 +95,8 @@ I like working where **research**, **computation**, and **real-world experimenta
 ---
 
 ## Fun Facts
-- I love **skating**.
-- I enjoy **art**.
+- I love **biology**.
+- I enjoy **skating and art**.
 - I’m always excited by **exploration**, discovery, and learning something new.
 
 ---
