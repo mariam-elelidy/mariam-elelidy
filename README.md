@@ -104,22 +104,22 @@ I like working where **research**, **computation**, and **real-world experimenta
 ## Let’s Connect
 If you have something valuable you want bring to life, just say "hii Mariam Let’s create something cool" !🚀
 
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mariam-elelidy-25me" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" style="border-radius:50%;" alt="linkedin" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" style="filter: invert(1);" alt="linkedin" />
 </a>
 
 <a href="mailto:mariam.elelidy25@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="42" style="border-radius:50%;" alt="gmail" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" style="filter: invert(1);" alt="gmail" />
 </a>
 
 <a href="https://www.instagram.com/mariam.elelidy?igsh=MXA4bHJ4ZXFiMmY2ag==" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="42" style="border-radius:50%;" alt="instagram" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40" style="filter: invert(1);" alt="instagram" />
 </a>
 
 </div>
+
 </div>
 <div align="center">
   <br/>
