@@ -109,13 +109,10 @@ If you have something valuable you want bring to life, just say "hii Mariam Letâ
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mariam-elelidy-25me" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mariam.elelidy25@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/mariam.elelidy?igsh=MXA4bHJ4ZXFiMmY2ag==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Creative%20Side-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
