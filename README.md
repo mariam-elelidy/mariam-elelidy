@@ -49,14 +49,6 @@ I like working where **research**, **computation**, and **real-world experimenta
   <img src="https://img.shields.io/badge/Error%20Analysis-F59E0B?style=flat-square" />
 </p>
 
-### Programming & Scientific Computing
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,sklearn,matplotlib" height="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="52" alt="pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="52" alt="numpy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="52" alt="matlab" />
-</div>
-
 ### Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" />
@@ -81,7 +73,7 @@ I like working where **research**, **computation**, and **real-world experimenta
 ## Tools I Work With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,vscode,arduino,firebase" height="55" alt="tools row 1" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,sqlite,vscode,arduino,firebase" height="55" alt="tools row 1" />
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="pandas" />
   <img width="10" />
