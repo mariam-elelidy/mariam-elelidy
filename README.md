@@ -80,7 +80,7 @@ I like working where **research**, **computation**, and **real-world experimenta
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="55" alt="matlab" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="55" alt="kaggle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/GitHub/GitHub-original.svg" height="55" alt="GitHub" />
 </div>
 
 ---
