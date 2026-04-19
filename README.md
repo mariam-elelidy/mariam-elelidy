@@ -1,45 +1,139 @@
-<h1 align="center"></h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,100:1E3A8A&text=Heyyyyy%20👋%20I’m%20Mariam&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Researcher%20%7C%20Data%20Science%20%7C%20Scientific%20Computing%20%7C%20Embedded%20Systems&descAlignY=60&animation=fadeIn" width="100%" />
+
+<h3>Turning curiosity into experiments, data into insight, and systems into real-world solutions.</h3>
+
+<a href="https://www.linkedin.com/in/mariam-elelidy-25me" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+</a>
+<a href="mailto:mariam.elelidy25@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+</a>
+<a href="https://www.instagram.com/mariam.elelidy?igsh=MXA4bHJ4ZXFiMmY2ag==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
+</a>
+
+</div>
+
+---
+
+## ✨ About Me
+
+Heyyyyy 👋  
+I’m **Mariam** — a curious researcher and data-driven builder who enjoys blending **scientific thinking**, **machine learning**, **analytical modeling**, and **engineering systems** to solve meaningful problems.
+
+I like working where **research**, **computation**, and **real-world experimentation** meet — from designing protocols and analyzing data to building models, testing hardware, and monitoring systems.
+
+---
+
+## 🧠 Core Skill Areas
+
+### 🔬 Research Skills
+<p>
+  <img src="https://img.shields.io/badge/Problem%20Decomposition-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research%20Design-1D4ED8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experimental%20Design-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Critical%20Analysis-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scientific%20Writing-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Protocol%20Development-DC2626?style=flat-square" />
+</p>
+
+### 📊 Statistical Analysis
+<p>
+  <img src="https://img.shields.io/badge/ANOVA-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Correlation%20%26%20Distribution%20Analysis-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Calibration-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Robustness%20%26%20Sensitivity%20Analysis-E11D48?style=flat-square" />
+  <img src="https://img.shields.io/badge/Error%20Analysis-F59E0B?style=flat-square" />
+</p>
+
+### ➗ Mathematical & Analytical Foundations
+<p>
+  <img src="https://img.shields.io/badge/Linear%20Algebra-1E40AF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Calculus-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Probability-7C2D12?style=flat-square" />
+</p>
+
+### 💻 Programming & Scientific Computing
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,sklearn,matplotlib" height="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="52" alt="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="52" alt="numpy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="52" alt="matlab" />
+</div>
+
+### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Design%20%26%20Architecture-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/Representation%20Learning-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multimodal%20Data%20Fusion-DC2626?style=flat-square" />
+</p>
+
+### ⚙️ Engineering & Systems
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-1E293B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardware%20Testing-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Signal%20Analysis-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Real--time%20Monitoring-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sensor%20Integration-E11D48?style=flat-square" />
+</p>
+
+---
+
+## 🧰 Tools I Work With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,vscode,arduino,firebase" height="55" alt="tools row 1" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="pandas" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="numpy" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="55" alt="matlab" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="55" alt="kaggle" />
 </div>
 
-###
+---
+
+## 🌟 What I Enjoy Building
+- Research-driven workflows with strong experimental logic
+- ML systems that are measurable, interpretable, and reliable
+- Scientific computing pipelines for analysis and modeling
+- Embedded and sensor-based systems connected to real data
+- Projects that mix creativity, rigor, and impact
+
+---
+
+## 🎨 Fun Facts
+- I love **skating**.
+- I enjoy **art** and visual creativity.
+- I’m always excited by **exploration**, discovery, and learning something new.
+
+---
+
+## 📫 Let’s Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mariam-elelidy-25me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mariam.elelidy25@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/mariam.elelidy?igsh=MXA4bHJ4ZXFiMmY2ag==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+<a href="https://www.linkedin.com/in/mariam-elelidy-25me" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mariam.elelidy25@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/mariam.elelidy?igsh=MXA4bHJ4ZXFiMmY2ag==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Creative%20Side-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </div>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1026,100:1E3A8A" width="100%" />
 </div>
-
-###
