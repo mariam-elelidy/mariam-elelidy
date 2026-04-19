@@ -107,20 +107,19 @@ If you have something valuable you want bring to life, just say "hii Mariam Letâ
 
 <div align="center">
 
-<div align="center">
-
 <a href="https://www.linkedin.com/in/mariam-elelidy-25me" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" style="border-radius:50%;" alt="linkedin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" style="border-radius:50%;" alt="linkedin" />
 </a>
 
 <a href="mailto:mariam.elelidy25@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" style="border-radius:50%;" alt="gmail" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="42" style="border-radius:50%;" alt="gmail" />
 </a>
 
 <a href="https://www.instagram.com/mariam.elelidy?igsh=MXA4bHJ4ZXFiMmY2ag==" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40" style="border-radius:50%; background-color:white; padding:6px;" alt="instagram" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="42" style="border-radius:50%;" alt="instagram" />
 </a>
 
+</div>
 </div>
 <div align="center">
   <br/>
